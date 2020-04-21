@@ -34,7 +34,7 @@ comments :
 # Internal nav
 nav:
   # - GALLERY: "https://achamoy.github.io/gallery/"  
-  - POSTS: "{{ site.baseurl }}/journal/"
+  - POSTS: "/journal/"
   - ABOUT: "/about/"
 
 # All translation keys
