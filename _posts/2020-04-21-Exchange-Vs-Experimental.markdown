@@ -27,9 +27,9 @@ Why watch a series when you could study instead?
 
 Well, guess what, things weren’t always that way in people’s heads.
 
-It all started somewhere around 1760, when the industrial revolution began, and societies started transforming themselves from societies with markets, to market societies. Land, Labour, Cattle, didn’t always have an “exchange value”, according to Yanis Varoufakis book <a href="https://www.goodreads.com/is/book/show/36992441-talking-to-my-daughter-about-the-economy">Talking to My Daughter About the Economy: A Brief History of Capitalism</a> (which I recently read and inspired me to write this post).
+It all started somewhere around 1760, when the industrial revolution began, and societies started transforming themselves from societies with markets, to market societies. Land, Labour, Cattle, didn’t always have an “exchange value”, according to Yanis Varoufakis book <a href="https://www.goodreads.com/is/book/show/36992441-talking-to-my-daughter-about-the-economy">Talking to My Daughter About the Economy: A Brief History of Capitalism</a> (which I recently read and thus got inspired to write this post).
 
-And then, suddenly, a pretty complex story of profit, debt, labour, markets and industrialization began. Point is, every entrepreneur started going crazy in order to produce more profits, squeeze workers, to be more efficient etc etc. We started cutting down forests, and placing a value on almost everything (even our time). I don’t argue here that this is a bad thing (after all before that most people were slaves and their time was not even theirs, technically). More industrialization, more cities, more carbon emissions, more technology.
+And then, suddenly, a pretty complex story of profit, debt, labour, markets and industrialization began. Point is, every entrepreneur started going crazy in order to produce more profits, squeeze workers out, be more efficient etc. We started cutting down forests, and placing an echange value on almost everything (even our time). I don't necessarily state that this is a bad thing (after all before that most people were slaves and their time was not even theirs, technically). More industrialization, more cities, more carbon emissions, more technology.
 
 Hey, little man, that’s how the economy works, one would argue. And he would be absolutely right. Almost all technology we have today is a gift of this procedure.
 
@@ -39,8 +39,7 @@ And the definitely-wrong part is that we confuse it (exchange value) with hapine
 
 Just zoom out a bit and think about the assumptions you make, while being quarantined: I must work hard enough to get my degree/finish my phD/get some skills/not lose my job, so as to acquire enough “value” to be happy.
 
-How confident are you your “plan” is going to work out fine?
-Do you think a big TV and a better car will REALLY make you happy?
+How confident are you your “plan” is going to work out fine? Do you think a big TV and a better car will REALLY make you happy?
 
 There are countless studies out there stating that after 75k$/year, people don’t get any happier. Can you guess why?
 
@@ -51,3 +50,21 @@ And experiential value is the reason we live for..
 Try to calculate how much your most valuable relationships cost. Or those nice vacations you had the first time you were an adult. How much would you trade your best friend for? Are you coming up with numbers?
 
 Then you are thinking of this completely wrong. There should be NO confusing experiential value with exchange value.
+
+In other words, that time when your best friend’s dad was in hospital and you visited to give him a hug, the time you gave your first kiss, that time an acquaintance of yours was in complete despair and you helped her out, the jokes you made with your friends on your birthday, that crazy night you had (the one where you were out clubbing till the morning instead of studying for tomorrow’s test), are all emotions who do not only have enormous experiential value for us, but are also the only things keeping us alive.
+
+The only reason to be more productive, attain money or learn new skills (except if you really enjoy the process) is to be able to experience more freedom, to acquire experiences, enrich your inner world, explore the paths your intellectual curiosity leads you.
+
+Isn’t it completely idiot feeling down, because you have to study, and having to study in order not to feel down one day? Like there is even a linear relationship between those two, or that your “plan” isn’t extremely fragile.
+
+So new time you hear your inner voice whining about how you don’t have enough to be happy and that’s why you partially feel that way, tell it to shut the fuck up.
+
+And get out to feel something nice, something new, a glimpse of joy from something silly that happens.
+
+After all, you just need a couple of people, a beer, a place to eat and rice to eat to be happy. Everything else is just optional. There was a time when people would just work 4-5 hours a day and after that fool around with their tribe all day long.
+
+Always remember what you work hard for: Experiences. Not for getting money to fill an imaginative void inside you.
+
+Our brains are silly and we forget easily. If that happens, just pick up the phone and call someone you love. Share your thoughts with them, remember a few good moments you too shared. Get in touch with your past experience, use them to empower that part of you who desires to be alive and thrive, put it in the driver’s seat (along with some logic) and there you go.
+
+Don’t let the world shape how you define what is valuable. Don’t be fooled by society’s stupid standards, nothing is worth more than your emotions, and the emotions of those close to you. Go create some more of them, the whole world is your canvas. Just crush it’s elements into your fist and use your heart and muscles to rebuild whatever your soul desires.
