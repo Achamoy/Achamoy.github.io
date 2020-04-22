@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Exchange Vs Eperiential Value and your Inner Voice"
+title:      "Exchange Vs Experiential Value and your Inner Voice"
 subtitle:   "how to think about what really matters in life"
 active: journal
 image:
