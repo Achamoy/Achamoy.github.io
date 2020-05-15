@@ -10,10 +10,11 @@ header-img: "img/postcover/pc006.jpg"
 tags: []
 categories: []
 comments: false
+image: "https://raw.githubusercontent.com/Achamoy/achamoy.github.io/master/img/postcover/pc006.jpg"
 ---
 
 
-A man is sitting silently inside his home. His empty home. Children’s voices can’t be heard from the above apartment. Other than that, it’s just him and his mirror.
+A man is sitting silently inside his home. His empty home. Children’s voices can be heard from the above apartment. Other than that, it’s just him and his mirror.
 
 A man decides to do some exercise. Why not, after all. He has been on a winning streak, psychologically, for two or three weeks. He is feeling stronger, smarter, he is working toward his goals.
 
