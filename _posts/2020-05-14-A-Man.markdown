@@ -10,10 +10,9 @@ header-img: "img/postcover/pc006.jpg"
 tags: []
 categories: []
 comments: false
-og:image: https://github.com/Achamoy/achamoy.github.io/tree/master/img/postcover/pc006.jpg
 ---
 
-
+<meta property="og:image"              content="http://static01.nyt.com/images/2015/02/19/arts/international/19iht-btnumbers19A/19iht-btnumbers19A-facebookJumbo-v2.jpg" />
 A man is sitting silently inside his home. His empty home. Children’s voices can’t be heard from the above apartment. Other than that, it’s just him and his mirror.
 
 A man decides to do some exercise. Why not, after all. He has been on a winning streak, psychologically, for two or three weeks. He is feeling stronger, smarter, he is working toward his goals.
