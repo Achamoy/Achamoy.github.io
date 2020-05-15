@@ -10,7 +10,6 @@ header-img: "img/postcover/pc004.jpg"
 tags: []
 categories: []
 comments: false
-image: "https://raw.githubusercontent.com/Achamoy/achamoy.github.io/master/img/postcover/pc004.jpg"
 description: "how to think about what really matters in life"
 ---
 
