@@ -10,6 +10,7 @@ header-img: "img/postcover/pc006.jpg"
 tags: []
 categories: []
 comments: false
+og:image: https://github.com/Achamoy/achamoy.github.io/tree/master/img/postcover/pc006.jpg
 ---
 
 
