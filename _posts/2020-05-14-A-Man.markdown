@@ -3,7 +3,7 @@ layout:     post
 title:      "A man is sitting in his chair."
 subtitle:   "A man is sitting in silence."
 active: journal
-image: "pc006.jpg"
+image:
   feature: "pc006.jpg"
 date:       2020-5-14
 header-img: "img/postcover/pc006.jpg"
@@ -11,7 +11,7 @@ tags: []
 categories: []
 comments: false
 ---
-<meta property="og:image" content="https://github.com/Achamoy/achamoy.github.io/tree/master/img/postcover/pc006.jpg">
+
 
 A man is sitting silently inside his home. His empty home. Children’s voices can’t be heard from the above apartment. Other than that, it’s just him and his mirror.
 
