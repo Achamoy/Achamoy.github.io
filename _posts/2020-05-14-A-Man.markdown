@@ -2,7 +2,6 @@
 layout:     post
 title:      "A man is sitting in his chair."
 subtitle:   "A man is sitting in silence."
-description:   "A man is sitting in silence."
 active: journal
 image: "https://raw.githubusercontent.com/Achamoy/achamoy.github.io/master/img/postcover/pc006.jpg"
 featureimg: "pc006.jpg"
@@ -11,6 +10,7 @@ header-img: "img/postcover/pc006.jpg"
 tags: []
 categories: []
 comments: false
+description:   "A man is sitting in silence."
 ---
 
 
