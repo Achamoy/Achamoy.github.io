@@ -11,7 +11,7 @@ tags: []
 categories: []
 comments: false
 ---
-
+<meta property="og:image" content="https://github.com/Achamoy/achamoy.github.io/tree/master/img/postcover/pc006.jpg">
 
 A man is sitting silently inside his home. His empty home. Children’s voices can’t be heard from the above apartment. Other than that, it’s just him and his mirror.
 
@@ -43,13 +43,13 @@ Maybe he is just a photograph - a photograph of an ever changing piece of matter
 
 His inability to come up with a better explanation isn’t bothering him at all. That’s also what scientists do sometimes, like light: a particle and a wave at the same time. Why? Because that’s what it is.
 
-What’s bothering him is that little emotion he is feeling right now. The image of that pathetic creature looking at him in the mirror. What is it even trying to do in it’s life?
+What’s bothering him is that little emotion he is feeling right now. The image of that pathetic creature looking at him in the mirror. What is it even trying to do with its life?
 
 It’s not disgust anymore, though. It’s anger. He doesn’t care. He doesn’t care to think, to analyze, to make assumptions, to believe in something to convince himself into action (and then only falling apart when his beliefs are shattered). He doesn’t even want to know.
 
 He just wants to change this little shit. To look back at what he was each day, and be proud he isn’t that anymore. Even if that is just a construct of his mind. And he wants to live.
 
-For the first time in a while, he wants to live. If anger is what’s fuelling him, it’s ok. On the other hand, it may be just a way to channel his extra energy into something, rather than nothing. Where does he get this extra energy from? He doesn’t know either. Probably from those pills he keeps swallowing each day for 6 months or so. He doesn’t care to find out.
+For the first time in a while, he wants to live. If anger is what’s fuelling him, it’s ok. On the other hand, it may be just a way to channel his extra energy into something, rather than nothing. Where does he get this extra energy from? He doesn’t know either. Probably from those pills he have been swallowing each day for 6 months or so. He doesn’t care to find out.
 
 He just cares to live.
 
