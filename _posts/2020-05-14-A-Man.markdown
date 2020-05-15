@@ -3,7 +3,7 @@ layout:     post
 title:      "A man is sitting in his chair."
 subtitle:   "A man is sitting in silence."
 active: journal
-image:
+image: "img/postcover/pc006.jpg"
   feature: "pc006.jpg"
 date:       2020-5-14
 header-img: "img/postcover/pc006.jpg"
