@@ -3,8 +3,8 @@ layout:     post
 title:      "Exchange Vs Experiential Value and your Inner Voice"
 subtitle:   "how to think about what really matters in life"
 active: journal
-image:
-  feature: "pc004.jpg"
+image: "https://raw.githubusercontent.com/Achamoy/achamoy.github.io/master/img/postcover/pc004.jpg"
+featureimg: "pc004.jpg"
 date:       2020-4-21
 header-img: "img/postcover/pc004.jpg"
 tags: []
