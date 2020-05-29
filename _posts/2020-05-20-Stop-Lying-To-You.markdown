@@ -19,7 +19,7 @@ There comes a day in a human’s life when he suddenly wakes up. I don’t know 
 
 I don't either know the specifics. In retrospect, it feels like one morning you just come into life. You realize there is a brain inside you. A brain with its many flaws, which was given to you, shaped in part by its previous, mostly random, choices and in party by the environment. That is society, your parents, television, books or whatever stimuli entered your consciousness, even momentarily, the years before.
 
-While scientists are still trying to figure out how those things exactly define your present moment, and  although it may indeed be an interesting endeavour to explore them, we will but that part aside for the moment.
+While scientists are still trying to figure out how those things exactly define your present moment, and  although it may indeed be an interesting endeavour to explore them, we will put that part aside for the moment.
 
 Because, the thing is, you wake up and you must, you definitely have to, work with the things you were given. Problem is, the same and only tool which you possess, must be used to alter itself, towards a destination it wants.
 
@@ -51,13 +51,13 @@ Stop bullshiting yourself. There are things you want and others you don’t. The
 
 There remains a big chunk of choices you make just to please others, to keep yourself locked up and busy. And sadly, deep inside, there is a voice that tries to warn you. That tries to convey to you what is really happening. But you keep shutting it up, you keep thinking you must change yourself, you keep finding meaning in stories that go against it.
 
-Stop shutting it up. Do yourself a favour, and give that voice more attention. Let it take the driver’s sheet, so that you can smash those walls around you. Believe me, the rabbit hole is pretty deep on that one. So deep, your brain is trying to protect you from entering it. To embrace the consequences of listening to that voice - on all aspects of your existence - is an experience beyond comprehension.
+Stop shutting it up. Do yourself a favour, and give that voice more attention. Let it take the driver’s seat, so that you can smash those walls around you. Believe me, the rabbit hole is pretty deep on that one. So deep, your brain is trying to protect you from entering it. To embrace the consequences of listening to that voice - on all aspects of your existence - is an experience beyond comprehension.
 
 So, there it comes. A moment when you decide to stop bullshiting yourself. A moment when you decide to just face reality. All it takes is just a small step. A tiny step rooted in your desire for freedom, powered by your frustration of not getting results, produced by the need to escape the last drop of misery you have inflicted upon yourself. The slight, ever-present misery you keep not wanting to see.
 
 Just a choice. That’s what it takes. A small choice, which will derail your spaceship once and for all. You don’t have to be all noisy about it, talking to your friends and anouncing your new-found wisdom. That's what you did before, to fool yoursel... Just peacefully explore those galaxies awaiting you. Become a true adventurer. No more meaningless circling around black holes and planets long abandoned. Your journey is about to enter the next level, the final level.
 
-The level that will last for a lifetime. It’s time to live life, and not be an actor on a stage you have no saying in. You only have one opportunity. You just have to step of that stage. Then, there is no going back, back to that ill defined course and reality. You only need to stop bullshitiing yourself. The question is, are you ready?
+The level that will last for a lifetime. It’s time to live life, and not be an actor on a stage you have no saying in. You only have one opportunity. You just have to step off that stage. Then, there is no going back, back to that ill defined course and reality. You only need to stop bullshitiing yourself. The question is, are you ready?
 
 
 
