@@ -10,7 +10,7 @@ header-img: "img/postcover/pc009.jpg"
 tags: []
 categories: []
 comments: false
-description: "These small moments of feelings you can't really share."
+description: "These small moments of feelings you can't really... explain?"
 ---
 
 
