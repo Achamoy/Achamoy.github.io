@@ -6,7 +6,7 @@ active: journal
 image: "https://raw.githubusercontent.com/Achamoy/achamoy.github.io/master/img/postcover/pc009.jpg"
 featureimg: "pc009.jpg"
 date:       2021-3-29
-header-img: "img/postcover/pc003.jpg"
+header-img: "img/postcover/pc009.jpg"
 tags: []
 categories: []
 comments: false
